@@ -1,7 +1,13 @@
 ### Welcome 🤝
 
-<!---->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ah-sabbir)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+----
+
 **I'm Sabbir .
+
 
 - 🔭 I’m currently working on <code><img alt="JavaScript" width="40px" src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" /></code>
 
@@ -10,7 +16,7 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
-
+---
 #### Connect with me:
 
 
@@ -27,7 +33,7 @@
 
 
 
-
+---
 
 #### 📈 My GitHub Stats:
 
@@ -38,7 +44,7 @@
   
   <br />
 
-
+---
 #### Languages and Tools:
 
 <code><img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -55,6 +61,23 @@
 
 <br />
 
+  
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ah-sabbir/IceBlock" title="IceBlock"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ah-sabbir&repo=IceBlock&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/ah-sabbir/soundcast" title="soundcast"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ah-sabbir&repo=soundcast&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+  
+  
+  
+  
+  
+  
+  
 
 <!-- Here are some ideas to get you started:
 
@@ -78,10 +101,14 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ah-sabbir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
+  
+  
+  
+  
+  
 [twitter]: https://twitter.com/ah_sabbir_
 [linkedin]: https://www.linkedin.com/
 [codepen]: https://codepen.io/ah-sabbir
-<!-- [hashnode]: https://tutuldevs.hashnode.dev -->
 [portfolio]: http://tasktime.org
 
 
