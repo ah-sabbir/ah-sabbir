@@ -107,8 +107,7 @@
   
   
 [twitter]: https://twitter.com/ah_sabbir_
-[
-]: https://www.linkedin.com/in/ah-sabbir/
+[Linkedin]: https://www.linkedin.com/in/ah-sabbir/
 [codepen]: https://codepen.io/ah-sabbir
 [portfolio]: http://tasktime.org
 
