@@ -24,7 +24,8 @@
 
 [<img align="left" alt="SabbirDevs | Twitter" width="30px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter] [Twitter]
 
-[<img align="left" alt="SabbirDevs | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin] [Linkedin]
+[<img align="left" alt="SabbirDevs | LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] [Linkedin]
+
 
 <!-- [<img align="left" alt="SabbirDevs | Hashnode" width="25px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][Hashnode] [Hashnode] -->
 
