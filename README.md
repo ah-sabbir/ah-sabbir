@@ -20,7 +20,7 @@
 #### Connect with me:
 
 
-[<img align="left" alt="SabbirDevs | Porfolio" width="30px" src="https://brandeps.com/icon-download/G/Globe-icon-vector-09.svg" />][portfolio] [Portfolio]
+<!-- [<img align="left" alt="SabbirDevs | Porfolio" width="30px" src="https://brandeps.com/icon-download/G/Globe-icon-vector-09.svg" />][portfolio] [Portfolio]
 
 [<img align="left" alt="SabbirDevs | Twitter" width="30px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter] [Twitter]
 
@@ -29,10 +29,30 @@
 
 <!-- [<img align="left" alt="SabbirDevs | Hashnode" width="25px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][Hashnode] [Hashnode] -->
 
-[<img align="left" alt="SabbirDevs | Codepen" width="30px" src="https://github.com/ah-sabbir/ah-sabbir/blob/main/static/img/codepen.svg" />][codepen] [Codepen]
+<!-- [<img align="left" alt="SabbirDevs | Codepen" width="30px" src="https://github.com/ah-sabbir/ah-sabbir/blob/main/static/img/codepen.svg" />][codepen] [Codepen] -->
+
+
+<p align="center">
+  <a href="https://github.com/ah-sabbir" alt="GitHub"><img src="https://img.icons8.com/fluent/72/000000/github.png"></a>
+  <a href="https://ah-sabbir.github.io/" alt="Website"><img src="https://img.icons8.com/bubbles/72/000000/domain.png"></a>
+  <a href="https://www.linkedin.com/in/ah-sabbir/" alt="LinkedIn"><img src="https://img.icons8.com/color/72/000000/linkedin-2.png"/></a>
+  <a href="https://medium.com/@ah-sabbir" alt="Medium"><img src="https://img.icons8.com/ios-filled/72/000000/medium-monogram.png"></a>
+  <a href="https://www.youtube.com/ah-sabbir" alt="Youtube"><img src="https://img.icons8.com/color/72/000000/youtube-play.png"></a>
+  <a href="https://twitter.com/ah_sabbir_" alt="Twitter"><img src="https://img.icons8.com/fluent/72/000000/twitter.png"></a>
+  <a href="https://www.instagram.com/ah_sabbir_/" alt="Instagram"><img src="https://img.icons8.com/fluent/72/000000/instagram-new.png"></a>
+  <a href="https://www.facebook.com/ah.sabbir.me" alt="Facebook"><img src="https://img.icons8.com/fluent/72/000000/facebook-new.png"></a>
+  <a href="https://www.snapchat.com/add/#"><img src="https://img.icons8.com/plasticine/72/000000/snapchat.png"/></a>
+</p>
 
 
 
+
+
+---
+
+#### 📈 My working Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-sabbir&langs_count=20&show_icons=true&theme=merko&count_private=true&layout=compact&card_width=1200)](https://github.com/ah-sabbir/github-readme-stats)
 
 ---
 
