@@ -19,19 +19,6 @@
 ---
 #### Connect with me:
 
-
-<!-- [<img align="left" alt="SabbirDevs | Porfolio" width="30px" src="https://brandeps.com/icon-download/G/Globe-icon-vector-09.svg" />][portfolio] [Portfolio]
-
-[<img align="left" alt="SabbirDevs | Twitter" width="30px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter] [Twitter]
-
-[<img align="left" alt="SabbirDevs | LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] [Linkedin]
-
-
-<!-- [<img align="left" alt="SabbirDevs | Hashnode" width="25px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][Hashnode] [Hashnode] -->
-
-<!-- [<img align="left" alt="SabbirDevs | Codepen" width="30px" src="https://github.com/ah-sabbir/ah-sabbir/blob/main/static/img/codepen.svg" />][codepen] [Codepen] -->
-
-
 <p align="center">
   <a href="https://github.com/ah-sabbir" alt="GitHub"><img src="https://img.icons8.com/fluent/72/000000/github.png"></a>
   <a href="https://ah-sabbir.github.io/" alt="Website"><img src="https://img.icons8.com/bubbles/72/000000/domain.png"></a>
@@ -67,7 +54,7 @@
 
 ---
 #### Languages and Tools:
-
+<p align="center">
 <code><img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="Bootstrap" width="40px" src="https://brandeps.com/icon-download/B/Bootstrap-icon-vector-07.svg" /></code>
@@ -78,7 +65,7 @@
 <code><img alt="Reduxjs" width="40px" src="https://brandeps.com/icon-download/R/Redux-icon-vector-02.svg" /></code>
 <code><img alt="FireBase" width="40px" src="https://brandeps.com/icon-download/F/Firebase-icon-vector-03.svg" /></code>
 <code><img alt="Git" width="40px" src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" /></code>
-
+</p>
 
 <br />
 
@@ -132,6 +119,15 @@
 [codepen]: https://codepen.io/ah-sabbir
 [portfolio]: http://tasktime.org
 
+<!-- [<img align="left" alt="SabbirDevs | Porfolio" width="30px" src="https://brandeps.com/icon-download/G/Globe-icon-vector-09.svg" />][portfolio] [Portfolio]
 
+[<img align="left" alt="SabbirDevs | Twitter" width="30px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter] [Twitter]
+
+[<img align="left" alt="SabbirDevs | LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] [Linkedin]
+
+
+<!-- [<img align="left" alt="SabbirDevs | Hashnode" width="25px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][Hashnode] [Hashnode] -->
+
+<!-- [<img align="left" alt="SabbirDevs | Codepen" width="30px" src="https://github.com/ah-sabbir/ah-sabbir/blob/main/static/img/codepen.svg" />][codepen] [Codepen] -->
 
 
