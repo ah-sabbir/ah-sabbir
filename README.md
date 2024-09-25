@@ -129,5 +129,75 @@
 <!-- [<img align="left" alt="SabbirDevs | Hashnode" width="25px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][Hashnode] [Hashnode] -->
 
 <!-- [<img align="left" alt="SabbirDevs | Codepen" width="30px" src="https://github.com/ah-sabbir/ah-sabbir/blob/main/static/img/codepen.svg" />][codepen] [Codepen] -->
+<br />
 
+  
+<hr>
+# My PC Configs
+## Before Run yml file make sure the following command already run.
 
+```
+# Update and upgrade apt packages
+sudo apt update && sudo apt upgrade -y
+sudo apt install ansible -y
+
+- name: Install Necessary Applications on Ubuntu
+  hosts: localhost
+  become: yes  # Use sudo
+  tasks:
+    - name: Update and upgrade apt packages
+      apt:
+        update_cache: yes
+        upgrade: yes
+
+    - name: Install necessary applications
+      apt:
+        name:
+          - curl
+          - git
+          - vim
+          - htop
+          - build-essential
+          - python3
+          - python3-pip
+          - docker.io
+          - docker-compose
+        state: present
+
+    - name: Install NVM
+      shell: |
+        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+      args:
+        executable: /bin/bash
+
+    - name: Load NVM and install Node.js
+      shell: |
+        export NVM_DIR="$HOME/.nvm"
+        [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+        nvm install node
+      args:
+        executable: /bin/bash
+
+    - name: Install Visual Studio Code
+      apt_repository:
+        repo: 'deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main'
+        state: present
+
+    - name: Install code
+      apt:
+        name: code
+        state: present
+
+    - name: Install Postman
+      shell: |
+        wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+        sudo tar -xzf postman.tar.gz -C /opt
+        sudo ln -s /opt/Postman/Postman /usr/bin/postman
+      args:
+        executable: /bin/bash
+
+    - name: Clean up
+      apt:
+        autoremove: yes
+        autoclean: yes
+```
