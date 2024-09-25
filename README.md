@@ -140,7 +140,13 @@
 # Update and upgrade apt packages
 sudo apt update && sudo apt upgrade -y
 sudo apt install ansible -y
+```
+<br />
 
+  
+<hr>
+# My PC Configs
+```
 - name: Install Necessary Applications on Ubuntu
   hosts: localhost
   become: yes  # Use sudo
